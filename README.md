@@ -5,10 +5,11 @@ Third-year AI & Data Science student focused on Machine Learning and Backend Dev
 
 <h2>💻 Technical Skills</h2> <br>
 <li>Languages: Python, JavaScript, Java <br>
-<li>Backend: FastAPI, Node.js <br>
+<li>Frontend: HTML,CSS,JavaScript, React.JS <br>
+<li>Backend: FASTAPI, Node.js <br>
 <li>Database: SQL. MYSQL <br>
 <li>Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib <br>
-<li>Tools & DevOps: Git, GitHub, Render, CanVA, Figma <br>
+<li>Tools & Frameworks: Git, GitHub, Render, Canva, Figma, Bootstrap <br>
 <li>Soft Skills: Leadership, Communication, Public Speaking, Ownership & Accountability <br>
 
 <h2>🎯 Areas of Interest</h2> <br>
