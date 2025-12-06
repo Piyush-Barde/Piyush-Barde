@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi there, I'm Piyush Barde!
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+🚀 About Me
+Third-year AI & Data Science student focused on Machine Learning and Backend Development. I enjoy turning real-world problems into working AI systems and optimizing products that actually scale.
 
-<!--
-**Piyush-Barde/Piyush-Barde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+💻 Technical Skills:
+Languages: Python, JavaScript, Java
+Backend: FastAPI, Node.js
+Database: SQL. MYSQL
+Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib
+Tools & DevOps: Git, GitHub, Render, CanVA, Figma
+Soft Skills: Leadership, Communication, Public Speaking, Ownership & Accountability
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+🎯 Areas of Interest
 
-Here are some ideas to get you started:
+Applied AI & Real-time Decision Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Architecture & Deployment
+
+Data Engineering & Model Optimization
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+📫 Connect With Me
+
+🌐 Portfolio coming soon
+💼 LinkedIn: (Add link)
+🐦 GitHub: github.com/Piyush-Barde
