@@ -7,7 +7,7 @@ Third-year AI & Data Science student focused on Machine Learning and Backend Dev
 <li>Languages: Python, JavaScript, Java <br>
 <li>Frontend: HTML,CSS,JavaScript, React.JS <br>
 <li>Backend: FastAPI, Node.js <br>
-<li>Database: SQL. MYSQL <br>
+<li>Database: Mysql <br>
 <li>Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib <br>
 <li>Tools & Frameworks: Git, GitHub, Render, Canva, Figma, Bootstrap <br>
 <li>Soft Skills: Leadership, Communication, Public Speaking, Ownership & Accountability <br>
