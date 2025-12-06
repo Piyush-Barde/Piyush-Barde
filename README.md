@@ -2,12 +2,12 @@
 
 <hr>
 
-🚀 About Me
+🚀 About Me <br>
 Third-year AI & Data Science student focused on Machine Learning and Backend Development. I enjoy turning real-world problems into working AI systems and optimizing products that actually scale.
 
 <hr>
 
-💻 Technical Skills:
+💻 Technical Skills: <br>
 Languages: Python, JavaScript, Java
 Backend: FastAPI, Node.js
 Database: SQL. MYSQL
@@ -17,13 +17,13 @@ Soft Skills: Leadership, Communication, Public Speaking, Ownership & Accountabil
 
 <hr>
 
-🎯 Areas of Interest
+🎯 Areas of Interest: <br>
 Applied AI & Real-time Decision Systems
 Backend Architecture & Deployment
 Data Engineering & Model Optimization
 
 <hr>
-📫 Connect With Me
+📫 Connect With Me <br>
 🌐 Portfolio coming soon
 💼 LinkedIn: www.linkedin.com/in/piyush-barde-b054a8165
 🐦 GitHub: github.com/Piyush-Barde
