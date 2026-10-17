@@ -1,7 +1,7 @@
 <h1>👋 Hi there, I'm Piyush Barde! </h1>
 
 <h2>🚀 About Me</h2> <br>
-Third-year AI & Data Science student focused on Machine Learning and Backend Development. I enjoy turning real-world problems into working AI systems and optimizing products that actually scale.
+Final-Year AI & Data Science student focused on Machine Learning and Backend Development. I enjoy turning real-world problems into working AI systems and optimizing products that actually scale.
 
 <h2>💻 Technical Skills</h2> <br>
 <li>Languages: Python, JavaScript, Java <br>
