@@ -17,9 +17,10 @@ Final-Year AI & Data Science student focused on Machine Learning and Backend Dev
 <li>Backend Architecture & Deployment <br>
 <li>Data Engineering & Model Optimization <br>
 
-<h2>📫 Connect With Me </h2><br>
-<li>🌐 https://main.d17zpeqcvzi5gm.amplifyapp.com/ <br>
-<li>💼 LinkedIn: www.linkedin.com/in/piyush-barde-b054a8165 <br>
-<li>🐦 GitHub: github.com/Piyush-Barde <br>
+## 📫 Connect With Me
+
+- 🌐 Portfolio: <a href="https://main.d17zpeqcvzi5gm.amplifyapp.com/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/piyush-barde-b054a8165" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+- 🐙 GitHub: <a href="https://github.com/Piyush-Barde" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
 
 <h1>Thanks for dropping in — let’s connect and turn ambitious ideas into reality. 🚀</h1>
